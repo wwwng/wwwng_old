@@ -2,6 +2,10 @@ baseurl = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 
+# pygments
+PygmentsCodeFences = true
+PygmentsStyle = "pygments"
+
 # use latest
 [module]
   [[module.imports]]
