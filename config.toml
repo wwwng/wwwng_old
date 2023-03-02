@@ -1,6 +1,6 @@
-baseurl = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://wwwng.onrender.com/"
+languageCode = "de-de"
+title = "wwwng"
 
 # pygments
 PygmentsCodeFences = true
