@@ -1,4 +1,4 @@
-baseurl = "https://wwwng.onrender.com/"
+baseurl = "https://wwwng.onrender.com"
 languageCode = "de-de"
 title = "wwwng"
 
@@ -27,10 +27,10 @@ PygmentsStyle = "pygments"
   tag = "tags"
 
 [params]
-  description = "Hugo port of Jekyll Now"
-  author = "Hugo Now"
-  keywords = ["hugo-now", "hugo"]
-  avatar = "/images/hugo.png"
+#  description = "Hugo port of Jekyll Now"
+#  author = "Hugo Now"
+#  keywords = ["hugo-now", "hugo"]
+#  avatar = "/images/hugo.png"
   displayauthor = false
   # pygments
   PygmentsUseClasses = true
