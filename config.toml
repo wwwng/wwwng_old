@@ -8,15 +8,15 @@ title = "My New Hugo Site"
     path = "github.com/mikeblum/hugo-now"
 
 # or use local fork at themes/hugo-now
-[module]
-  replacements = "github.com/mikeblum/hugo-now -> ../.."
-  [[module.imports]]
-    path = "github.com/mikeblum/hugo-now"
+#[module]
+#  replacements = "github.com/mikeblum/hugo-now -> ../.."
+#  [[module.imports]]
+#    path = "github.com/mikeblum/hugo-now"
 
 
 
 # google analytics
-GoogleAnalytics = "UA-XXXXXX"
+#GoogleAnalytics = "UA-XXXXXX"
 
 [taxonomies]
   category = "categories"
