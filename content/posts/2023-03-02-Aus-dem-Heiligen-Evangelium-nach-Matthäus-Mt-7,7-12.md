@@ -1,7 +1,7 @@
 +++
 author = 'Gott'
 title = 'Aus dem Heiligen Evangelium nach Matthäus - Mt 7,7-12'
-layout = post
+layout = 'post'
 categories = ['EVANGELIUM']
 tags = ['EVANGELIUM']
 date = '2023-03-02 09:00:04 +0100'
