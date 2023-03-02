@@ -1,10 +1,10 @@
 +++
-author: 'Gott'
-title: 'Aus dem Heiligen Evangelium nach Matthäus - Mt 7,7-12'
-layout: post
-categories: ['EVANGELIUM']
-tags: ['EVANGELIUM']
-date: '2023-03-02 09:00:04 +0100'
+author = 'Gott'
+title = 'Aus dem Heiligen Evangelium nach Matthäus - Mt 7,7-12'
+layout = post
+categories = ['EVANGELIUM']
+tags = ['EVANGELIUM']
+date = '2023-03-02 09:00:04 +0100'
 +++
 In jener Zeit sprach Jesus zu seinen Jüngern: Bittet, dann wird euch gegeben; sucht, dann werdet ihr finden; klopft an, dann wird euch geöffnet.
 Denn wer bittet, der empfängt; wer sucht, der findet; und wer anklopft, dem wird geöffnet.
